@@ -1,4 +1,11 @@
 -------------------------------------
+	4.2-0	
+-------------------------------------
+VirtualBox 4.2.x compatibility.
+
+jquery upgrade to 1.6.2
+
+-------------------------------------
 	4.0-7	2011-6-8
 -------------------------------------
 Removed $sessionSecurityLevel setting and associated logic as it
